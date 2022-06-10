@@ -3,4 +3,4 @@ This is my first repository,  i did it thanks to the video of the youtube channe
 
 ## Team project test
 
-# To do: add a folder `gitignore`
+### To do: add a folder `gitignore`
