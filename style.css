@@ -1,3 +1,9 @@
-body{
+#section_1{
+    padding:24px;
     background-color: blue;
+}
+
+#section_2{
+    padding:24px;
+    background-color: salmon;
 }
